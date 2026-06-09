@@ -4,7 +4,8 @@ Instant Telegram notifications for every new WooCommerce order.
 
 A lightweight and easy-to-use WordPress plugin that sends real-time WooCommerce order alerts directly to your Telegram account or group using the Telegram Bot API.
 
----<img width="709" height="1600" alt="epImage " src="https://github.com/user-attachments/assets/6f2f69cb-7208-4955-a556-0b82f620ea4e" />
+---<img width="1785" height="804" alt="Screenshot 2026-06-09 121538" src="https://github.com/user-attachments/assets/7db9c585-3df8-40e6-9196-2734f35ff8ee" />
+
 
 
 
