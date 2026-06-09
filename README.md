@@ -1,4 +1,4 @@
-<img width="1809" height="1011" alt="Screenshot 2026-06-06 112824" src="https://github.com/user-attachments/assets/19214eac-5977-4d28-8c39-82928418b5a8" /># WooCommerce Telegram Order Notifier
+# WooCommerce Telegram Order Notifier
 
 Instant Telegram notifications for every new WooCommerce order.
 
